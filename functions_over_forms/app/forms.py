@@ -20,3 +20,5 @@ class CenteredAverage(forms.Form):
     given_amount_5 = forms.IntegerField()
     given_amount_6 = forms.IntegerField(required=False)
     given_amount_7 = forms.IntegerField(required=False)
+
+
